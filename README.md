@@ -1,0 +1,2 @@
+# SpringBootJpaApplicationDemo
+springboot结合jpa的项目框架，可直接使用，可简化复杂查询
